@@ -6,13 +6,14 @@
 
 - Qt 5.13.1
 - Eigen 3
-- tree-3.1
 - libsvm 
 - hdf5 1.10
 - tree 3.7
 - libtiff 4
 - glog
 - VTK 8.2
+
+tree library can be download from http://tree.phi-sci.com/
 
 2. Compilation environment
 
