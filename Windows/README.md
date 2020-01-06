@@ -24,3 +24,6 @@ If you use Visual Studio 2017, We can send you pre-built 3rd libraries.
 Put 3rd libraries dll files in executable directory. Ensure you have put directory 'platforms' (include qwindows.dll et al) in. 'Platforms' directory places in Your_QT_PATH/msvc2017_64/plugins/platforms. You can just run GTree.exe
 
 Ensure you have install "Microsoft VC++ redistribution 2017 x64" and GPU driver in new computer
+
+
+#### Point Cloud related base classes have been added
