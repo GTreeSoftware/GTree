@@ -24,4 +24,5 @@ Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.11.
 Eigen is a famous template math library which does not need pre compilation. 
 libtiff 4 prebuilt package can be download using VS 2017 NuGet.
 
-
+#### Deep learning interface
+Deep learning interface will be added later. The target DL framework is Pytorch
