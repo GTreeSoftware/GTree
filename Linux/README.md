@@ -12,6 +12,9 @@ If you use Ubuntu Linux 16.04 GCC 5.4, We can send you pre-built 3rd libraries.
 
 Neurons are so complicated that we cannot consider all situation. Bug and lack of functionality in GTree is unavoidable. Please let us know the bugs you find or new function you want. If you know some powerful neuron analysis algorithm which can be integrated in GTree, please tell us thanks.
 
+### Encoding
+If not editable, choose GBK encoding in Qt Creator.
+
 ### A show time video is preparing
 
 We will show you the operation fluency of GTree.
