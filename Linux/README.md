@@ -23,3 +23,4 @@ We will show you the operation fluency of GTree.
 
 1. Right-click and GUI window will show context menu. It's all right in Windows but failed in Linux. I have to over-write right-click function in vtk interactorstyle.
 2. When in move-point mode, GTree-Linux cannot pop up context menu. Just press short-cut 'M' to toggle move-point mode. It's all right in windows.
+3. GTree file should have excutable permission in Linux, or cannot be excuted.
