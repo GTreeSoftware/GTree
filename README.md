@@ -3,7 +3,7 @@
 ---
 #### Introduction
 
-GTree is a open source software for neuron tracing.
+Global Tree Reconstruction System (GTree) software is a open source software for neuron tracing. GTree is written in C++, and freely available for academic research using. GTree is used to reconstruct neurons in single images and reconstruct neuronal population from brain-wide image stacks.
 
 #### License
 
