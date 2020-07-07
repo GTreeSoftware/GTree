@@ -23,7 +23,9 @@ If you have any technique question, you can send email to [263699527@qq.com](263
 
 
 #### Prebuilt third-party library package
-Prebuilt packages for VS 2017, namely libsvm, vtk 8, glog, hdf5 can be download at link: https://pan.baidu.com/s/10jpgAQ18bIKBimdhL1eqCg 
+https://github.com/GTreeSoftware/GTree/wiki/Thirdparty-Library
+
+Prebuilt packages for VS 2017, namely libsvm, vtk 8, glog[depre], hdf5 can be download at link: https://pan.baidu.com/s/10jpgAQ18bIKBimdhL1eqCg 
 code: d7vq
 
 Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.11.3.
