@@ -27,6 +27,4 @@ https://github.com/GTreeSoftware/GTree/wiki/Thirdparty-Library
 
 Prebuilt binary packages for VS 2017: https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.1
 
-Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.11.3.
-Eigen is a famous template math library which does not need pre compilation. 
-libtiff 4 prebuilt package can be download using VS 2017 NuGet.
+Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.12.5.
