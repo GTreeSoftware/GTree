@@ -25,7 +25,7 @@ If you have any technique question, you can send email to [263699527@qq.com](263
 #### Prebuilt third-party library package
 https://github.com/GTreeSoftware/GTree/wiki/Thirdparty-Library 
 
-From 1.0.4, GTree project import static libraries acquired by Conan. The project configuration has been updated.
+From 1.0.4, GTree project import static libraries acquired by Conan, a C++ library/package manager. The project configuration has been updated.
 
 Prebuilt binary packages for VS 2017 (except Qt5): https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.1
 
