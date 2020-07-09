@@ -25,6 +25,8 @@ If you have any technique question, you can send email to [263699527@qq.com](263
 #### Prebuilt third-party library package
 https://github.com/GTreeSoftware/GTree/wiki/Thirdparty-Library
 
-Prebuilt binary packages for VS 2017: https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.1
+Prebuilt binary packages for VS 2017 (except Qt5): https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.1
+
+Prebuilt binary packages for Ubuntu 16.04 or higher, GCC 8.4.0 or higher (except Qt5): https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.2
 
 Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.12.5.
