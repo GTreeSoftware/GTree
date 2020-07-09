@@ -25,8 +25,7 @@ If you have any technique question, you can send email to [263699527@qq.com](263
 #### Prebuilt third-party library package
 https://github.com/GTreeSoftware/GTree/wiki/Thirdparty-Library
 
-Prebuilt packages for VS 2017, namely libsvm, vtk 8, glog[depre], hdf5 can be download at link: https://pan.baidu.com/s/10jpgAQ18bIKBimdhL1eqCg 
-code: d7vq
+Prebuilt binary packages for VS 2017: https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.1
 
 Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.11.3.
 Eigen is a famous template math library which does not need pre compilation. 
