@@ -32,3 +32,11 @@ Prebuilt binary packages for VS 2017 (except Qt5): https://github.com/GTreeSoftw
 Prebuilt binary packages for Ubuntu 16.04 or higher, GCC 8.4.0 or higher (except Qt5): https://github.com/GTreeSoftware/GTree/releases/tag/1.0.4.2
 
 Qt5 can be download at qt community website. Our vtk 8 is compatible of qt 5.12.5.
+
+### How to run
+
+https://github.com/GTreeSoftware/GTree/wiki
+#### Windows
+Please make sure that Microsoft VC++ 2017 x64 redistribution is installed. Just double click GTree.exe and open GTree.
+#### Linux
+Please make sure that GPU driver is installed normally. Go to GTree directory, open terminal and run "sh ./run_local.sh". The GTree has passed test on Ubuntu 16.04 and 18.04. The minimum GLIBC version is 2.23.
