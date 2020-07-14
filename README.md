@@ -22,7 +22,7 @@ If you have any academic question, you can send email to [sqzeng@mail.hust.edu.c
 If you have any technique question, you can send email to [263699527@qq.com](263699527@qq.com).
 
 
-#### Prebuilt third-party library package
+#### Third-party library package
 https://github.com/GTreeSoftware/GTree/wiki/Thirdparty-Library 
 
 From 1.0.4, GTree project import static libraries acquired by Conan, a C++ library/package manager. The project configuration has been updated.
